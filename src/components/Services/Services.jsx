@@ -4,7 +4,7 @@ import Card from "../Card/Card";
 import Glasses from "../../img/glasses.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './SouravCV.pdf';
+import Resume from './Resume.pdf';
 
 const Services = () => {
   // context
