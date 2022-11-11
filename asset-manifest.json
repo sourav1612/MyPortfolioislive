@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MyPortfolioislive/static/css/main.2cc489d3.css",
+    "main.js": "/MyPortfolioislive/static/js/main.c6e11c5b.js",
+    "static/media/Caricature.jpg": "/MyPortfolioislive/static/media/Caricature.2a4e4d7b8b551000c59e.jpg",
+    "static/media/SouravCV.pdf": "/MyPortfolioislive/static/media/SouravCV.c96e57db89572dbcae23.pdf",
+    "static/media/glassesimoji.png": "/MyPortfolioislive/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/MyPortfolioislive/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/wave.png": "/MyPortfolioislive/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/MyPortfolioislive/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/MyPortfolioislive/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/MyPortfolioislive/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/MyPortfolioislive/index.html",
+    "main.2cc489d3.css.map": "/MyPortfolioislive/static/css/main.2cc489d3.css.map",
+    "main.c6e11c5b.js.map": "/MyPortfolioislive/static/js/main.c6e11c5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc489d3.css",
+    "static/js/main.c6e11c5b.js"
+  ]
+}
