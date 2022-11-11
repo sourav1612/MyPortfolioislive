@@ -1,0 +1,14 @@
+///// Keyboard VScode shortcuts///////
+
+--> Ctrl + Shift + L = multi cursor selection     // V.V.I
+--> Alt + Up/down = move line                     // V.V.I
+--> Ctrl + pgup/down = switching tabs in VScode   // V.V.I 
+--> Shift + Alt + up/down = copy/paste            // V.I
+--> Ctrl + O : to open the current file           //V.I
+--> Ctrl + Space = show suggestions               // Imp
+--> Ctrl + D : one by one selection             // Imp
+--> Ctrl + , = open settings                      // Imp
+--> Ctrl + B = toggle the sidebar
+--> Ctrl + P = Displays the search bar
+--> Ctrl + Shift + [ or ] : fold or unfold code
+--> Ctrl + / = toggle line comment
